@@ -1,4 +1,4 @@
-<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png">
+<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png"  width="1000" height="400" >
 
 <h2> Hey there! I'm Erik.</h2>
 
