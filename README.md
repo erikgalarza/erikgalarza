@@ -43,7 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 - <a href="https://n9.cl/329m7"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--blue?style=flat-square&logo=whatsapp"></a>
+- <a href="https://www.facebook.com/erik.galarza.311"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--blue?style=flat-square&logo=facebook"></a>
+- <a href="https://www.instagram.com/erikgalarza8/?hl=es-la"><img alt="Email" src="https://img.shields.io/badge/Instagram--blue?style=flat-square&logo=instagram"></a>
 - <a href="mailto:erikgalarza1@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--blue?style=flat-square&logo=gmail"></a>
-- <a href="https://www.facebook.com/erik.galarza.311"><img alt="Facebook" src="https://img.shields.io/badge/Email--blue?style=flat-square&logo=facebook"></a>
-- <a href="https://www.instagram.com/erikgalarza8/?hl=es-la"><img alt="Email" src="https://img.shields.io/badge/Email--blue?style=flat-square&logo=instagram"></a>
 
