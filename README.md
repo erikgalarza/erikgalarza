@@ -26,7 +26,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![SQLServer](https://img.shields.io/badge/-MySQL_Server-333333?style=flat&logo=microsoftsqlserver)
+  ![SQLServer](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoftsqlserver)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
