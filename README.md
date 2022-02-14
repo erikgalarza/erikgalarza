@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png">
 
 <h2> Hey there! I'm Erik.</h2>
 
@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Software Engineer at ESPOCH.
-- 💼 &nbsp; Working as ...
+- 💼 &nbsp; Working with ...
 - 🌱 &nbsp; Currently Learning JavaScript.
 - ✍️ &nbsp; I am responsible and I like what I do.
 
