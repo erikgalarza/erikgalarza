@@ -42,7 +42,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="erikgalarza1@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erikgalarza1@hotmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="+593 984446717"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-+593 984446717-blue?style=flat-square&logo=whatsapp"></a>
+<a href="https://n9.cl/329m7"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-+593 984446717-blue?style=flat-square&logo=whatsapp"></a>
+<a href=""><img alt="Email" src="https://img.shields.io/badge/Email-erikgalarza1@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+
 
 
